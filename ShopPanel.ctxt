@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ShopPanel
+comment0.text=\n\ This\ class\ create\ a\ Panel\ for\ the\ project\ Sugar\ Shop\n\ It\ contains\:\n\ -\ label\n\ -\ Image\ Icon\n\n\ @author\ Amanda\ Barbieri\n\ @version\ May/16/2020\n
+comment1.params=
+comment1.target=ShopPanel()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ShopPanel\n
+comment2.params=
+comment2.target=void\ setWelcomeLable()
+comment2.text=\n\ Set\ the\ welcome\ label\n
+comment3.params=canvas
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment3.text=\n\ It\ will\ override\ the\ default\ paintComponent()\ method\ from\ the\ JPanel\ class\n\ \n\ paintIcon\:\ calls\ the\ method\ from\ the\ ImageIcon\ class\ and\ it\ needs\ 4\ arguments\:\n\ -\ this.\:\ identifies\ the\ component\ on\ which\ to\ place\ the\ icon(this\ indicates\ the\ ShopPanel)\n\ -\ canvas\:\ identifies\ the\ graphics\ object\ for\ this\ icon\n\ -\ the\ numbers\:\ are\ the\ cordinates\ of\ the\ top\ left\ where\ the\ icon\ should\ start\n
+numComments=4
