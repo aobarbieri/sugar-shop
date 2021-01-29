@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Quality
-comment0.text=\n\ This\ interface\ can\ be\ implemented\ into\ the\ product's\ child\ classes.\n\ It\ contains\ a\ method\ which\ every\ connected\ class\ will\ have\ to\ apply\n\n\ @author\ Amanda\ Barbieri\n\ @version\ May/17/2020\n
-comment1.params=date
-comment1.target=void\ setExpirationDate(java.lang.String)
-comment1.text=\n\ Expiration\ date\ must\ to\ be\ set\ for\ each\ product\n
-numComments=2
