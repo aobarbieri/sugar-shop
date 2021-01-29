@@ -83,7 +83,7 @@ A. Four classes with object class iteration - Drinks, Quality, IceCream, Product
 B. Inheritance - Product, IceCream, Drinks.
 C. Abstract Class - Product
 D. Interface - Quality
-E. File input/output - Cliente, ClientInformation
+E. File input/output - Client, ClientInformation
 F. HashMap or HashSet - Client
 G. Selection Sort - ClientInformation
 H. Test fixtures containing instantiated objects - Drinks, IceCream, Client, ClientInformation
